@@ -1,0 +1,22 @@
+{
+  "name": "78rpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://revdancatt@github.com/revdancatt/78rpm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revdancatt/78rpm/issues"
+  },
+  "homepage": "https://github.com/revdancatt/78rpm#readme",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  }
+}
